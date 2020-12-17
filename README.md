@@ -12,6 +12,14 @@ How can the Baltimore City Health Department reduce teen birth rate in Baltimore
 - How do household income, American Indian/Alaska Native race (AIAN), Native Hawaiian/Other Pacific Islander race (NHOPI), and Hispanic race affect/contribute to teen birth rate?
 - How has teen birth rate changed from 2015-2018?
 
+# Data Source
+__Vital Signs Open Data__: This is a collection of publically available data on Baltimore City neighborhoods to paint a picture of each neighborhood's quality of life and overall health. It includes information and datasets on census demographics, housing and community development, children and family health, crime and safety, workforce and economic development, arts and culture, education and youth, and sustainability. Data from 2014 were used in this project.
+Teen Birth Rate per 1,000 Females (aged 15-19) - This dataset shows the rate of female teens aged 15-19 that gave birth per 1,000 females aged 15-19 in each Baltimore City neighborhood.
+Percent of Family Households Living Below the Poverty Line - This dataset shows the percentage of households living below the poverty line in each Baltimore City neighborhood.
+Percent of Residents - All Other Races (Hawaiian/ Pacific Islander, Alaskan/ Native American Other Race) (Non-Hispanic) - This dataset shows the percentage of residents who identify their ethnicity as Hawaiian/Pacific Islander or Alaskan/Native American in each Baltimore City neighborhood.
+Percent of Residents - Hispanic - This dataset shows the percentage of residents who identify their ethnicity as Hispanic in each Baltimore City neighborhood.
+
+
 # Step-by-Step Data Analysis
 
 **Mini Project 5.ipynb:** Google Colaboratory notebook used to conduct the analysis [![Google Collaboratory Link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11uSwNie4bjdrR64gUIkjoTvihHQT0HKU#scrollTo=6owqeXfvZ0Tt)
